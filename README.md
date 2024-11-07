@@ -15,8 +15,7 @@
 
 ## 💼 Expérience Professionnelle
 - **Stagiaire en Développement Web**, Octopus Design, Tunis, Tunisie (2022)
-    - Développé des fonctionnalités front-end avec WordPress, améliorant l'UI/UX de 15%.
-    - Optimisé les performances du site, réduisant les temps de chargement de 30%.
+    - Développé des fonctionnalités front-end avec WordPress, améliorant l'UI/UX .
     - Collaboré avec une équipe multidisciplinaire pour implémenter des solutions adaptées aux besoins des clients.
 
 ## 🎓 Éducation
@@ -70,7 +69,8 @@
 - **Gestion de Formations**: Développement d'une application web pour la gestion des formations d'un club (Angular, JsonServer). Automatisé la gestion des inscriptions et suivi des formations.
 - **Gestion de Résidences**: Développement d'une application web pour la gestion des résidences (Angular, Symfony).
 - **Gestion de Système Bancaire**: Développement d'une application web pour la gestion de systèmes bancaires basés sur les webservices SOA (Flutter, Django, Laravel, Express).
-
+- **Gestion des tâches** : Développement d'une application de gestion de tâches, intégrant une interface 3D interactive avec Three.js pour une organisation optimale des tâches.
+- **Gestion des ventes en ligne** : Développement d'une application de gestion des ventes en Python, utilisant Tkinter pour une interface utilisateur intuitive et efficace.
 ## 🌐 Langues
 - **Français**: Langue maternelle
 - **Anglais**: Courant
